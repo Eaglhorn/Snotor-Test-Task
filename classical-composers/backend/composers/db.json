@@ -1,0 +1,31 @@
+{
+    "composers": [
+      {
+        "id": 1001,
+        "name": "Wolfgang Amadeus Mozart",
+        "img": "https://www.listchallenges.com/f/items/952cf124-b9da-46e9-8ccd-53c4065d10e2.jpg",
+        "dateOfBirth": "1756-01-27"
+      },
+      {
+        "id": 1002,
+        "name": "Ludwig Van Beethoven",
+        "img": "https://www.listchallenges.com/f/items/031f6d2b-3ab9-485b-8a7f-c128fd2052f2.jpg",
+        "dateOfBirth": "1770-12-16"
+      }
+    ],
+    "contacts": [
+      {
+        "id": 1001,
+        "phoneNumber": "(123) 456-7890",
+        "email": "mozart@example.com",
+        "address": "123 Music St, Vienna, Austria"
+      },
+      {
+        "id": 1002,
+        "phoneNumber": "(987) 654-3210",
+        "email": "beethoven@example.com",
+        "address": "456 Classical Rd, Bonn, Germany"
+      }
+    ]
+  }
+  
